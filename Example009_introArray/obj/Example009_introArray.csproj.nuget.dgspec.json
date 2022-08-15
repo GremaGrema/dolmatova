@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example009_introArray\\Example009_introArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example009_introArray\\Example009_introArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-        "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example009_introArray\\Example009_introArray.csproj",
+        "projectName": "Example009_introArray",
+        "projectPath": "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example009_introArray\\Example009_introArray.csproj",
         "packagesPath": "C:\\Users\\datat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\datat\\OneDrive\\Рабочий стол\\Разработчик\\Examples\\Example009_introArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datat\\AppData\\Roaming\\NuGet\\NuGet.Config"
